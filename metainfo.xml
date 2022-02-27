@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<presentation availableOffline="1" guid="E2E5EF6B-C164-4C44-B69B-60A31D2D75CB" version="0">
+	<info>
+		<title>2022_02_27_PARTEXAM2CLASSX</title>
+		<description/>
+	</info>
+	<files index="id32" thumbnail="id28" totalSize="2538495">
+		<file id="id0">data/apple-touch-icon.png</file>
+		<file id="id1">data/browsersupport.js</file>
+		<file id="id2">data/favicon.ico</file>
+		<file id="id3">data/fonts/fnt0.woff</file>
+		<file id="id4">data/fonts/fnt1.woff</file>
+		<file id="id5">data/fonts/fnt2.woff</file>
+		<file id="id6">data/fonts/fnt3.woff</file>
+		<file id="id7">data/fonts/fnt4.woff</file>
+		<file id="id8">data/fonts/fnt5.woff</file>
+		<file id="id9">data/fonts/fnt6.woff</file>
+		<file id="id10">data/html5-unsupported.html</file>
+		<file id="id11">data/html5.png</file>
+		<file id="id12">data/images/img-18276114b1c7018e82621cb7069a1d00958d520d.png</file>
+		<file id="id13">data/images/img-272f2def673a62c831c0304d4114abbeb8f199ce.png</file>
+		<file id="id14">data/images/img-31641b822c9aad5b03abedd3fd437130ab4b1d8f.png</file>
+		<file id="id15">data/images/img-3481caa9a146b77b62c00400cfd677d80a07e83d.jpg</file>
+		<file id="id16">data/images/img-4b748d920331b19fd7efe5a4d7f19334964c26c1.png</file>
+		<file id="id17">data/images/img-50b448d34cc768298d5f35f99c5b32ae90ee0696.jpg</file>
+		<file id="id18">data/images/img-7261f4e92e90feab3d5729939d34d28d1516d5b0.png</file>
+		<file id="id19">data/images/img-771bcfb0ad6e1bb4d1667f707e308c02e399a9c3.png</file>
+		<file id="id20">data/images/img-7b442072acdea57b7ee13bc3bc7c7f48fb70e447.png</file>
+		<file id="id21">data/images/img-8baeab3d51a01ae4e3f4135970556909572600a9.png</file>
+		<file id="id22">data/images/img-a15baf84a801b868d86b24b8b12ab06318fdc104.png</file>
+		<file id="id23">data/images/img-a27e2b0179d4fd995360e592dcdc352cfd0f33a1.png</file>
+		<file id="id24">data/images/img-b5b94f697ed943b73402b76d44bbbe387558d0f7.png</file>
+		<file id="id25">data/images/img-d6ca14ae16b5b8e914a70f282400171ea39dc689.png</file>
+		<file id="id26">data/ismplayer/app_store2x.png</file>
+		<file id="id27">data/ismplayer/play.svg</file>
+		<file id="id28">data/ismplayer/preview.png</file>
+		<file id="id29">data/ismplayer/style.css</file>
+		<file id="id30">data/ismplayer/style_mini.css</file>
+		<file id="id31">data/player.js</file>
+		<file id="id32">index.html</file>
+		<file id="id33">ismplayer.html</file>
+		<file id="id34">preview.png</file>
+	</files>
+</presentation>
+
